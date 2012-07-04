@@ -1,0 +1,14 @@
+# datomic-tester
+
+A simple collection common of Clojure commands created from the datomic tutorial.
+Datamic tutorial for Java found here: http://datomic.com/company/resources/tutorial.html
+
+## Usage
+
+For reference only.
+
+## License
+
+Copyright (C) 2012 Gracenote KK
+
+Distributed under the Eclipse Public License, the same as Clojure.
